@@ -1,5 +1,5 @@
 ---
-name: Improve code
+name: 🚀 Improve code
 about: Suggest an codes improvement idea for this project.
 labels: 'Improve Codes'
 

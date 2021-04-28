@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: 💡 Feature request
 about: Suggest an new feature idea for this project.
 labels: 'Request Feature'
 
