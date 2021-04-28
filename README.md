@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="lncodes.com"><img src="https://lncodes.com/wp-content/uploads/2020/09/lncodes-logo-animated.gif" height="175"></img>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://lncodes.com"><img src="https://lncodes.com/wp-content/uploads/2020/09/lncodes-logo-animated.gif" height="175"></img>
   </a>
 </p>
 
