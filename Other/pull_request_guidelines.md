@@ -1,8 +1,8 @@
 # Pull Request Guidelines
 1. Fork this project repository.
-2. Add your forked repo to your local directory.
+2. Add your remote repo to your local directory.
 ``` bash
-git remote add origin <forked-repo-URL>
+git remote add origin <remote-repo-URL>
 ```
 3. Create a new branch based on your selected topic.
 ``` bash
@@ -12,22 +12,20 @@ git checkout -b <topic-branch-name>
 ``` bash
 git commit -m "Commit-Messege"
 ```
-5. Before push, make sure to get the latest project update.
-``` bash
-git pull --rebase origin <dev-branch>
-```
-6. Push your topic branch up to your fork repository.
+5. Push your changes to your remote repository.
 ``` bash
 git push origin <topic-branch-name>
 ```
-7. Create a pull request 
+6. Create A Pull Request 
 
-After pushing to your forked repository, now you can create a pull request for your project, and to do that, you can use our [Pull Request Template](<pull-request-template-URL>).
+After pushing to your remote repository, now you can create a pull request for your project, and to do that, you can use our [Pull Request Template](../PULL_REQUEST_TEMPLATE.md).
 
-8. Review Pull Request.
+7. Review Pull Request.
 
-After creating Pull Request, our collaborator will review your Pull Request and ensure that your code fits with this project code. We will give you feedback max: 3x24 Hours after you submit the Pull Request.
+After creating pull request, our collaborator will review your pull request and ensure that your code fits with the requirement. We will give you feedback max: 3x24 Hours after you submit the pull request.
 
-9. Finishing Up
+8. Finishing Up
 
-When your Pull Request has been accepted by our collaborator, we will merge your new change in our development branch. Every { project-date-update } of the month, we will combine all development branches to the master. We will update these project blog docs.
+When your pull request has been accepted by our collaborator, we will merge your new change in our development branch. 
+
+>Every { project-date-update } of the month, we will merge all development branches to the master branch and we will update the project doc.

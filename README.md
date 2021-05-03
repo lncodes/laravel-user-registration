@@ -18,8 +18,10 @@
 
 ---
 
-## 🏁 Getting Started
-{ *Description of the project* }, to see documentation of this project you can visit our blog post [Here](<project-blog-URL>).
+<h2 id="getting-started"> 🏁 Getting Started </h2>
+
+{ *Description of the project* }, to see documentation of this project you can visit our [Website](<project-blog-URL>).
+
 ### 🔨 Build With
 |                 |   Name        | Version       |
 |:---------------:|:-------------:|:-------------:|
@@ -34,19 +36,24 @@ git clone <project-repo-URL>
 ```
 2. etc
 
-## 🎯 Project Scope
+<h2 id="project-scope">🎯 Project Scope</h2>
+
 This project will use to { *Objective of the project* }
 
-## 💖 Contribute
-Want to contribute to this project? Please read our project contribution [Guidelines](project-contribution-URL).
+<h2 id="contribute">💖 Contribute</h2>
 
-## 💬 Discuss
-If you have any questions about this project, you can go to project discussion [Forum](<project-discussion-URL>) or directly comment to this project [Blog](<project-blog-URL>) docs.
+Want to contribute to this project? Please read our project [Contribution Guidelines](CONTRIBUTING.md).
 
-## 💌 Support
+<h2 id="discuss">💬 Discuss</h2>
+
+If you have any questions about this project, you can go to [discussion forum](<project-discussion-URL>) or directly comment to this project [documentation](<project-blog-URL>).
+
+<h2 id="support">💌 Support</h2>
+
 Support us to make another helpful content.
 
 <a href="https://www.buymeacoffee.com/lncodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="64"></a>
 
-## 📄 License
-This project is open-sourced software licensed under [MIT](<project-license-URL>) license.
+<h2 id="license">📄 License</h2>
+
+This project is open-sourced software licensed under [MIT](../LICENSE.md) license.
