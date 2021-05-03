@@ -9,9 +9,9 @@
 - [ ] Documentation update
 - [ ] Other (Please describe it)
 
-## Checklist
-- [ ] I have read the [CONTRIBUTING](<project-contribute-URL>) project document.
-- [ ] My Pull request use [Lables](pull-request-label-URL).
+## Requirements
+- [ ] My pull request use [labels](pull-request-label-URL).
+- [ ] I have read [CONTRIBUTING.md](CONTRIBUTING.md).
 - [ ] My code pass all the Github CI/CD test.
 - [ ] My code follows the code style of the project.
 - [ ] My pull request requesting from ***develop*** branch.
