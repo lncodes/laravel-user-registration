@@ -4,8 +4,6 @@ about: Create a bug report.
 labels: 'Report Bug'
 
 ---
-
-# Bug Issue Template
 ## Description
 { *Describe what kind of bug you find* }
 

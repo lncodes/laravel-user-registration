@@ -4,7 +4,6 @@ about: Suggest an codes improvement idea for this project.
 labels: 'Improve Codes'
 
 ---
-# Improvement Code Issue
 ## Where The Codes
 { *Where you want to improve the project code* }
 

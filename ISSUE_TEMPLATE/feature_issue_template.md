@@ -4,7 +4,6 @@ about: Suggest an new feature idea for this project.
 labels: 'Request Feature'
 
 ---
-# Feature Issue Template
 ## Problem
 { *Describe problem you get* }
 
