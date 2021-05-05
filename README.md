@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center"><b>VLECIS</b></h3>
+<h3 align="center"><b>{ Project Name }</b></h3>
 <p align="center">{ Project Bedge }</p>
 
 <p align="center">
