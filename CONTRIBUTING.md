@@ -18,7 +18,7 @@ We will be very grateful if you want to help us to fix the project bugs, and you
 
 ## 💡 Find New Feature Idea
 We're open to any new feature idea to improve this project, and you can follow these steps to share your brilliant idea :
-1. Look at the [Project Scope](README.md/#project-scope) and consider whether the proposed idea falls within the project's scope.
+1. Look at the [Project Scope](README.md/#scope) and consider whether the proposed idea falls within the project's scope.
 2. When you think your idea isn't outside of the project scope, then you can go to the project [discussion forum](project-decision-URL) to discuss your new idea with our community.
 3. When your idea is accepted, now you can create an issue for it. You can use our [Improvement Issue Template](https://github.com/lncodes/.github/blob/master/.github/ISSUE_TEMPLATE/FEATURE_ISSUE_TEMPLATE.md).
 
