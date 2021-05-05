@@ -20,7 +20,7 @@
 
 <h2 id="getting-started"> 🏁 Getting Started </h2>
 
-{ *Description of the project* }, to see documentation of this project you can visit our [Website](<project-blog-URL>).
+{ *Description of the project* }, to see documentation of this project, you can visit our [Website](<project-blog-URL>).
 
 ### 🔨 Build With
 |                 |   Name        | Version       |
@@ -46,14 +46,14 @@ Want to contribute to this project? Please read our project [Contribution Guidel
 
 <h2 id="discuss">💬 Discuss</h2>
 
-If you have any questions about this project, you can go to [discussion forum](<project-discussion-URL>) or directly comment to this project [documentation](<project-blog-URL>).
+If you have any questions about this project, you can go to [discussion forum](../../../discussions) or directly comment on this project [documentation](<project-blog-URL>).
 
 <h2 id="support">💌 Support</h2>
 
-Support us to make another helpful content.
+Please support us to make other helpful content.
 
 <a href="https://www.buymeacoffee.com/lncodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="64"></a>
 
 <h2 id="license">📄 License</h2>
 
-This project is open-sourced software licensed under [MIT](../LICENSE.md) license.
+This project is open-sourced software licensed under [MIT](../LICENSE) license.
