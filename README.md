@@ -8,7 +8,7 @@
 <p align="center">{ Project Bedge }</p>
 
 <p align="center">
-  <a href="#about">About</a> •
+  <a href="#introduction">Introduction</a> •
   <a href="#setup">Setup</a> •
   <a href="#Contribute">Contribute</a> •
   <a href="#discuss">Discuss</a> •
@@ -17,7 +17,7 @@
 </p>
 
 ---
-<h2 id="about">✨ About</h2>
+<h2 id="introduction">✨ Introduction</h2>
 
 { *Description of the project* }, for more information about this project, you can refer to [Documentation](project-blog-URL).
 
