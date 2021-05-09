@@ -31,9 +31,6 @@ Here some objective we want to achieve from this project :
 
 <h2 id="setup">🧰 Setup </h2>
 
-### 🔧 Requirements
-- { *List requirements before setup the project* }
-- etc
 ### ⚙️ Installation 
 Follow these steps to install { *project-name* }
 1. Clone or download this project.
